@@ -2,4 +2,4 @@
 
 Random picture Generator Application
 
-This is the storyboard appplication which generates random pictures from the website.
+This is the storyboard application which generates random pictures from the website.
